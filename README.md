@@ -43,7 +43,7 @@ This project is a full-stack healthcare-focused e-commerce website developed usi
 🔗 [YouTube Video Demo](https://your-youtube-demo-link)
 
 ### 🌐 Live Site:
-🔗 [Hosted Version]([https://your-live-site-link](https://doctorweb-ht4y1y4m7-archithaj27s-projects.vercel.app/))
+🔗 (https://doctorweb-ht4y1y4m7-archithaj27s-projects.vercel.app/)
 
 ---
 
